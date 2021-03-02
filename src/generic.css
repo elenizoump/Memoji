@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-size: 100px;
+  background-color: white;
+}
+
+button {
+  font-size: 100px;
+  cursor: pointer;
+  border: 1px solid black;
+  box-shadow: 4px 6px 5px 0px rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
